@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DecoratorPattern/DecoratorPattern.iml" filepath="$PROJECT_DIR$/DecoratorPattern/DecoratorPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryPattern/FactoryPattern.iml" filepath="$PROJECT_DIR$/FactoryPattern/FactoryPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProxyPattern/ProxyPattern.iml" filepath="$PROJECT_DIR$/ProxyPattern/ProxyPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleFactoryPattern/SimpleFactoryPattern.iml" filepath="$PROJECT_DIR$/SimpleFactoryPattern/SimpleFactoryPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StrategyPattern/StrategyPattern.iml" filepath="$PROJECT_DIR$/StrategyPattern/StrategyPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XuJavaDesignPatterns.iml" filepath="$PROJECT_DIR$/XuJavaDesignPatterns.iml" />
+    </modules>
+  </component>
+</project>
