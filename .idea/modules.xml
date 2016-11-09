@@ -10,13 +10,18 @@
       <module fileurl="file://$PROJECT_DIR$/Compositepattern/Compositepattern.iml" filepath="$PROJECT_DIR$/Compositepattern/Compositepattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/DecoratorPattern/DecoratorPattern.iml" filepath="$PROJECT_DIR$/DecoratorPattern/DecoratorPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryPattern/FactoryPattern.iml" filepath="$PROJECT_DIR$/FactoryPattern/FactoryPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlyWeightPattern/FlyWeightPattern.iml" filepath="$PROJECT_DIR$/FlyWeightPattern/FlyWeightPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterpreterPattern/InterpreterPattern.iml" filepath="$PROJECT_DIR$/InterpreterPattern/InterpreterPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Iteratorpattern/Iteratorpattern.iml" filepath="$PROJECT_DIR$/Iteratorpattern/Iteratorpattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MediatorPattern/MediatorPattern.iml" filepath="$PROJECT_DIR$/MediatorPattern/MediatorPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/MementoPattern/MementoPattern.iml" filepath="$PROJECT_DIR$/MementoPattern/MementoPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObserverPattern/ObserverPattern.iml" filepath="$PROJECT_DIR$/ObserverPattern/ObserverPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProxyPattern/ProxyPattern.iml" filepath="$PROJECT_DIR$/ProxyPattern/ProxyPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReqponsibilityPattern/ReqponsibilityPattern.iml" filepath="$PROJECT_DIR$/ReqponsibilityPattern/ReqponsibilityPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactoryPattern/SimpleFactoryPattern.iml" filepath="$PROJECT_DIR$/SimpleFactoryPattern/SimpleFactoryPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/StatePattern/StatePattern.iml" filepath="$PROJECT_DIR$/StatePattern/StatePattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/StrategyPattern/StrategyPattern.iml" filepath="$PROJECT_DIR$/StrategyPattern/StrategyPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VisitorPattern/VisitorPattern.iml" filepath="$PROJECT_DIR$/VisitorPattern/VisitorPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/XuJavaDesignPatterns.iml" filepath="$PROJECT_DIR$/XuJavaDesignPatterns.iml" />
     </modules>
   </component>
