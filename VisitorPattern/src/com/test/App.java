@@ -11,8 +11,6 @@ public class App
         objectVisitStructure.addElement(concreteEle);
         objectVisitStructure.addElement(concreteEle);
         Visitor visitor=new Visitor();
-        concreteEle.Accept(visitor);
-
-
+        objectVisitStructure.visit(visitor);
     }
 }
